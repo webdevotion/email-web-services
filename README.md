@@ -5,7 +5,6 @@ Using [Exchange Web Service](https://docs.microsoft.com/en-us/exchange/client-de
 This script has not been used in production and is nothing more than a working example for you to tinker with.
 
 ## Instructions
---
 
 Run this script from the command line but first edit the values of EWS, USER, and PWD to reflect your situation.
 
