@@ -1,0 +1,24 @@
+{
+  "name": "ews-demo",
+  "version": "0.0.1",
+  "description": "Demo Exchange Web Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "ews",
+    "exchange",
+    "webservice",
+    "api",
+    "email",
+    "webhooks"
+  ],
+  "author": "Bram Plessers",
+  "license": "MIT",
+  "dependencies": {
+    "@ewsjs/xhr": "^1.4.2",
+    "ews-javascript-api": "^0.10.3",
+    "ews-javascript-api-auth": "^1.2.1"
+  }
+}
